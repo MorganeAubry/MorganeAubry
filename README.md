@@ -7,4 +7,6 @@ Hi there ! Welcome to my GitHub !
 - 💬 Ask me about whatever you want
 - 📫 How to reach me: morganeaubrypro@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I did a 2 years prep class before starting to work in IT even though I started to code at 11.
+- ⚡ Fun fact: I did a 2 years prep class in math and physics before starting to work in IT even though I started to code at 11.
+
+My personal project is to code a keyboard and a website kinda like StackOverflow but for a personal use.
