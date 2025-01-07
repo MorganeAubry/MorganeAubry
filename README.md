@@ -1,4 +1,4 @@
-Hi there ! Welcome to my GitHub ! 
+Hi there ! Welcome to my GitHub ! \n
 Feel free to come and ask me if you have a project in mind : [morganeaubrypro@gmail.com](morganeaubrypro@gmail.com)
 
 - 🔭 I’m currently working on the beta of an infrastructure
