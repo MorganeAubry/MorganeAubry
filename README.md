@@ -1,5 +1,4 @@
-Hi there ! Welcome to my GitHub ! <br>
-Feel free to come and ask me if you have a project in mind : [morganeaubrypro@gmail.com](morganeaubrypro@gmail.com)
+Hi there ! Welcome to my GitHub ! 
 
 - 🔭 I’m currently working on the beta of an infrastructure
 - 🌱 I’m currently learning Ansible
